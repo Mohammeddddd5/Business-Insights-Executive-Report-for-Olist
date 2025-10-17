@@ -1,0 +1,2 @@
+Original Dataset Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+PowerBI Executive Report Link: https://drive.google.com/file/d/1u-pMjcj34iF6NYz3PNKQ7w3LN_U-_T2A/view?usp=drive_link
